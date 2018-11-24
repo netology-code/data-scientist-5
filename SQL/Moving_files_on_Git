@@ -1,0 +1,30 @@
+Moving and Renaming Files on GitHub
+ Mar 15, 2013
+cobyism
+cobyism
+ Announcements
+Starting today, you can move and rename files within your repositories on GitHub.
+
+Renaming a file
+You’ll notice that editing a file now lets you enter a new name for your file.
+
+Renaming a file
+
+But let’s see what else this field can do.
+
+Moving files to new locations
+You can also move files to entirely new locations using just the filename field. To navigate down into a folder, just type the name of the folder you want to move the file into followed by /. The folder can be one that’s already part of your repository, or it can even be a brand-new folder that doesn’t exist yet!
+
+moving a file to a new location
+
+It’s just as easy to move files into folders above the file’s current location too. To move a file up, place your cursor at the beginning of the filename field and either:
+
+Type ../ to jump up a whole directory level.
+Press backspace to move up a directory, while keeping the parent folder’s name around for quick changes.
+Creating files in new locations
+This functionality is also available when creating files too, and means you can now create new files anywhere in your repositories, even if the folder doesn’t exist yet! :smiley:
+
+Help and further information
+For help with these features, be sure to read our help articles on renaming, moving, and creating files.
+
+:sparkles: Enjoy! :sparkles:
